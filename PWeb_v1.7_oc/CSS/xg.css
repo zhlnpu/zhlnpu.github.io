@@ -1,0 +1,138 @@
+BODY {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size: 14px;
+}
+a:link { 
+	text-decoration: none;
+	color: #3399FF;
+	font-size: 13px;
+}
+a:active { 
+	text-decoration:blink;
+}
+a:hover {
+	text-decoration:underline;
+	color: #FF5542;
+} 
+a:visited { 
+	text-decoration: none;
+	color:#3399FF;
+	font-size: 13px;
+}
+.handpic {
+	cursor: pointer;
+	border: 0;
+	vertical-align: middle;	
+}
+.handButton {
+	cursor: pointer;
+	height:22px;
+}
+.midBlue {
+	color: #0000FF;
+	font-size: 14px;
+}
+.subMenu {
+	text-indent: 20px;
+	font-size: 12px;
+}
+.subMenu2 {
+	font-size: 12px;
+}
+.artic {
+	font-size: 12px;
+	background-color:#FFFFFF;
+}
+.articTitle {
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+}
+.articTopic {
+	text-indent: 24px;
+	font-size: 12px;
+	background-color:#EBEBEB;
+}
+.articText {
+	text-indent: 24px;
+	font-size: 12px;
+	text-align: left;
+	background-color:#FFFFFF;
+}
+.articMsg {
+	font-size: 14px;
+	background-color:#EBEBEB;
+}
+.usualText{
+	font-size: 14px;
+}
+.xuxian{
+	border:1px dotted #000000;
+	text-indent: 0px;
+}
+.footMenu {
+	background-color: #E8EFF0;
+	font-size: 12px;
+}
+.ipIndexText{
+	font-size: 28px;
+}
+.ipAddressText{
+	font-size: 24px;
+}.ocAdTitle {
+	font-size: 12px;
+	line-height: 15px;
+	text-decoration: underline;
+	color: blue;
+	font-weight: bold;
+	vertical-align: baseline;
+}
+.ocAdcontent {
+	font-family: Pmingliu,verdana,arial,sans-serif;
+ 	font-size: 11px; 
+	color: #000000;
+	line-height: 14px;
+}
+.ocAdfoot {
+	font-size: 10px;
+	line-height: 16px;
+	text-decoration: underline;
+}
+.ocAdTable {
+	text-indent: 0px;
+}
+.classTable {
+	border-right-color: #AA9FFF;
+	border-bottom-color: #AA9FFF;
+	border-left-color: #AA9FFF;
+	border-top-color: #AA9FFF;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+}
+.classTxt {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight:bold;
+	background-color: #9494FE;
+}
+.title_alert {
+	position:absolute;
+	display:none;
+	z-index:100;
+	
+	border:0px;
+	bottom:30px;
+	left:50px;
+	height:68px;
+	width:196px;
+	background-image:url(../images/ocTitleAlerter.gif);
+	text-align:center;
+}
+.title_alertMsg {
+	font-size:12px;
+}
