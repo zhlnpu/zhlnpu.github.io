@@ -1,0 +1,17 @@
+{
+"companyName": "determ",
+"productName": "WebPointCloud",
+"productVersion": "0.1",
+"dataUrl": "webApp.data.unityweb",
+"wasmCodeUrl": "webApp.wasm.code.unityweb",
+"wasmFrameworkUrl": "webApp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "webApp.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
